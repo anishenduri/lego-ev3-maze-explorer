@@ -41,7 +41,7 @@ The robot uses **ultrasonic and color sensors** to autonomously navigate a custo
 
 ## 📂 File Info
 
-- `maze_final.ev3`: Main project code (exported from EV3-G)
+- `Maze_final.ev3`: Main project code (exported from EV3-G)
 
 
 ---
